@@ -1,8 +1,9 @@
 {
   "name": "c390",
-  "homepage": "https://github.io",
+  "homepage": "https://bernardyaprp.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
+
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",

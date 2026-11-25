@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.33a640bb.js",
+    "main.js": "/portfolio/static/js/main.f7ca5124.js",
+    "static/media/ITECommScholarship.png": "/portfolio/static/media/ITECommScholarship.8581f73a27dca53967c4.png",
+    "static/media/CiscoHardwareBasics.png": "/portfolio/static/media/CiscoHardwareBasics.f07fdddc28077c3d282a.png",
     "index.html": "/portfolio/index.html",
-    "main.33a640bb.js.map": "/portfolio/static/js/main.33a640bb.js.map"
+    "main.f7ca5124.js.map": "/portfolio/static/js/main.f7ca5124.js.map"
   },
   "entrypoints": [
-    "static/js/main.33a640bb.js"
+    "static/js/main.f7ca5124.js"
   ]
 }
